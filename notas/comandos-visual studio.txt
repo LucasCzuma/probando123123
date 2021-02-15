@@ -1,0 +1,3 @@
+alt + flechas --> Arrastrar lineas de codigo arriba o abajo
+
+alt + click --> seleccionar distintas lineas de codigo para agregar txt simultaneo

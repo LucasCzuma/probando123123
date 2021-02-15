@@ -1,0 +1,81 @@
+0)         INTRODUCCION  - ¿que es javascript?
+
+
+		- Lenguaje de programacíon
+		- interpretado --> los lenguajes de copilado 
+		- orientado a objetos
+		- imperativo
+		- case sensitive (upper and lower case)
+		- basado en prototipos / instancias / classless
+		- tipado debil
+		- lenguaje dinamico
+
+		- ECMASCRIPT (5.1 y 6, 7 ,8 , next)
+
+
+
+1) Editor de texto 
+
+	- Personalizar sublime text 3
+		install package control
+		set UI
+		Color Scheme (brogrammer)
+		liveReload
+		colorHelper
+		colorPicker
+	- Otras opciones (VSC, Atom)
+
+
+
+
+2) ¿ para que se usa ?
+
+	- Dinamismo de los sitios web
+	- Servidor en NodeJS
+	- Tecnologías (jonny five)
+	- mobile apps
+	- Desktop apps
+	- etc..
+
+
+
+3) Formas de enlazar Javascript
+
+	- En linea
+	- Como contenido en la etiqueta <script>
+	- Como contenido en un archivo de formato .js
+	- con un require
+
+4) Variables :    Espacio que guardamos en memoria
+	
+	- Concepto (IMG)
+	- Ejemplo
+	- Tipos de datos: string (cadena de texto), Number, boolean)
+	- Casos especiales de datos; Undefined, Null, Nan;
+	- Scope
+	- Hoisting :
+  	- Tipos de variables (Let, Var y Const)
+	- Crear multiples variables (separandolas con coma) -> Let nombre1 =  "jorge", nombre2 = "rami";
+	
+	- Pruebas Prompt        
+
+5) Operadores de Javascript
+	- Operadores de Asignacion
+	- Operadores aritmeticos
+
+
+6) concatenación
+
+	- Definicion y ejemplo
+	- Con el signo +
+	- para numeros forzamos string ("" +9 + 4 ) los strings cambian el valor de todas las var a string
+	- con concat	
+	- Con backtiks y la variable entre ${}
+
+7) Backticks (bloquote o acento grave) y Escapes4
+
+
+
+
+
+
